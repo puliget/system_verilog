@@ -1,2 +1,2 @@
 # system_verilog
-this repository about tell system_verilog concept topic
+this repository  tell  about system_verilog concept topic
